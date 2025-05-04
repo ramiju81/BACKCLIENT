@@ -1,17 +1,40 @@
-# 📦 BACKCLIENT
+# 🌐 BACKCLIENT
 
-## 📝 Descripción
+## 🌐 Descripción
+
 Proyecto académico desarrollado por Julian R.
 
+## 🎯 Propósito
+
+Proyecto académico en desarrollo de software para desarrollar habilidades técnicas.
+
+El proyecto está construido principalmente con **Python**, complementado con **Markdown**.
 ## 🛠️ Tecnologías Principales
-- **Python** (1 archivos)
-- **Markdown** (1 archivos)
 
-## 📂 Estructura
-- Estructura básica del proyecto
+- **Python**
+- **Markdown**
+## 📂 Estructura del Proyecto
 
-## 📅 Última Actualización
-2025-05-04 00:10
+Estructura básica del proyecto
+## 📅 Actividad Reciente
 
-## 🔒 Licencia
-Académico - © 2025
+Últimos cambios:
+- `afd591e - ActualizaciÃ³n automÃ¡tica 2025-05-04 00:10 (2025-05-04)`
+- `c4ac6a0 - Actualizar README.md (2025-05-03)`
+- `1f86e55 - Actualizar README.md - 2025-05-03 (2025-05-03)`
+
+---
+
+## 🛡️ Licencia
+
+© 2025 Julian R. Todos los derechos reservados.
+Uso académico. Prohibida la redistribución sin autorización.
+
+## 🧑‍💻 Autor
+
+**Julian Alberto Ramirez**
+
+💻 Desarrollador de Software | 💡 Innovador Tecnológico
+
+📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)
+🔗 [LinkedIn](https://co.linkedin.com/in/julianramirezc)
